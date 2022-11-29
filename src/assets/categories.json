@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Танцы",
+      "iconId": "dances",
+      "categoryName": "dances"
+    },
+    {
+      "id": 2,
+      "name": "Стиль походки",
+      "iconId": "gait",
+      "categoryName": "gait"
+    },
+    {
+      "id": 3,
+      "name": "Физупражнения",
+      "iconId": "sport_exercise",
+      "categoryName": "sport_exercise"
+    },
+    {
+      "id": 4,
+      "name": "Социальные",
+      "iconId": "social",
+      "categoryName": "social"
+    },
+    {
+      "id": 5,
+      "name": "Эмоции",
+      "iconId": "emotions",
+      "categoryName": "emotions"
+    },
+    {
+      "id": 6,
+      "name": "Действия",
+      "iconId": "actions",
+      "categoryName": "actions"
+    },
+    {
+      "id":7,
+      "name": "Неприличные",
+      "iconId": "indecent",
+      "categoryName":  "indecent"
+    }
+  ]
+}

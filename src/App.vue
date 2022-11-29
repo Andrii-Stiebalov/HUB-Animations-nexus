@@ -1,26 +1,32 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HUD_Animations/>
+  <div>working</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HUD_Animations from "./components/HUD-Animations.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HUD_Animations
   }
 }
 </script>
 
 <style>
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  overflow: hidden;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  height: 100vh;
+  background: url(./assets/gta2.1.svg) no-repeat center bottom fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 </style>

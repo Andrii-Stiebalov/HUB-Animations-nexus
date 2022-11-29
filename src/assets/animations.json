@@ -1,0 +1,542 @@
+{
+  "animations": [
+  {
+    "id": 1,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Прием пищи"
+  },
+  {
+    "id": 2,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Прием пищи2"
+  },
+  {
+    "id": 3,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сальто"
+  },
+  {
+    "id": 4,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Курить"
+  },
+  {
+    "id": 5,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сесть"
+  },
+  {
+    "id": 6,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сесть"
+  },
+  {
+    "id": 7,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Кувырок"
+  },
+  {
+    "id": 8,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Лавочка"
+  },
+  {
+    "id": 9,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Помахать"
+  },
+  {
+    "id": 10,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Прием пищи"
+  },
+  {
+    "id": 11,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Прием пищи2"
+  },
+  {
+    "id": 12,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сальто"
+  },
+  {
+    "id": 13,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Курить"
+  },
+  {
+    "id": 14,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сесть"
+  },
+  {
+    "id": 15,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Сесть"
+  },
+  {
+    "id": 16,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Кувырок"
+  },
+  {
+    "id": 17,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Лавочка"
+  },
+  {
+    "id": 18,
+    "iconId": "actions",
+    "category": "actions",
+    "type": "Действие",
+    "name": "Помахать"
+  },
+  {
+    "id": 19,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Робот"
+  },
+  {
+    "id": 20,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Майкл JSON"
+  },
+  {
+    "id": 21,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Майкл Джексон"
+  },
+  {
+    "id": 22,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Зомби"
+  },
+  {
+    "id": 23,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Зомби2"
+  },
+  {
+    "id": 24,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Зомби3"
+  },
+  {
+    "id": 25,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Зеленский"
+  },
+  {
+    "id": 26,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Бодрый"
+  },
+  {
+    "id": 27,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Реп"
+  },
+  {
+    "id": 28,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Брейк Данс"
+  },
+  {
+    "id": 29,
+    "iconId": "dances",
+    "category": "dances",
+    "type": "Танец",
+    "name": "Попинг"
+  },
+  {
+    "id": 30,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Уверенно"
+  },
+  {
+    "id": 31,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Хромая"
+  },
+  {
+    "id": 32,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Вприпрыжку"
+  },
+  {
+    "id": 33,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Спиной"
+  },
+  {
+    "id": 34,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "На руках"
+  },
+  {
+    "id": 35,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Мак Грегор"
+  },
+  {
+    "id": 36,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Уверенно"
+  },
+  {
+    "id": 37,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Хромая"
+  },
+  {
+    "id": 38,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Вприпрыжку"
+  },
+  {
+    "id": 39,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Спиной"
+  },
+  {
+    "id": 40,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "На руках"
+  },
+  {
+    "id": 41,
+    "iconId": "gait",
+    "category": "gait",
+    "type": "Походка",
+    "name": "Мак Грегор"
+  },
+  {
+    "id": 42,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поздороватья"
+  },
+  {
+    "id": 43,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Прощание"
+  },
+  {
+    "id": 44,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Обнять"
+  },
+  {
+    "id": 45,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поцеловать"
+  },
+  {
+    "id": 46,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поздороватья"
+  },
+  {
+    "id": 47,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Прощание"
+  },
+  {
+    "id": 48,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Обнять"
+  },
+  {
+    "id": 49,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поцеловать"
+  },
+  {
+    "id": 50,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поздороватья"
+  },
+  {
+    "id": 51,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Прощание"
+  },
+  {
+    "id": 52,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Обнять"
+  },
+  {
+    "id": 53,
+    "iconId": "social",
+    "category": "social",
+    "type": "Социальные",
+    "name": "Поцеловать"
+  },
+  {
+    "id": 54,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Рукки в боки"
+  },
+  {
+    "id": 55,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Спокойно"
+  },
+  {
+    "id": 56,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Смирно"
+  },
+  {
+    "id": 57,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "На руках"
+  },
+  {
+    "id": 58,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Рукки в боки"
+  },
+  {
+    "id": 59,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Спокойно"
+  },
+  {
+    "id": 60,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "Смирно"
+  },
+  {
+    "id": 61,
+    "iconId": "stance",
+    "category": "stance",
+    "type": "Стойка",
+    "name": "На руках"
+  },
+  {
+    "id": 62,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Анжумания"
+  },
+  {
+    "id": 63,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Бегит"
+  },
+  {
+    "id": 64,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Пресс качат"
+  },
+  {
+    "id": 65,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Турник"
+  },
+  {
+    "id": 66,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Гантбли"
+  },
+  {
+    "id": 67,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Анжумания"
+  },
+  {
+    "id": 68,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Бегит"
+  },
+  {
+    "id": 69,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Пресс качат"
+  },
+  {
+    "id": 70,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Турник"
+  },
+  {
+    "id": 71,
+    "iconId": "sport_exercise",
+    "category": "sport_exercise",
+    "type": "Спорт",
+    "name": "Гантбли"
+  },
+  {
+    "id": 72,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  },
+  {
+    "id": 73,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  },
+  {
+    "id": 74,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  },
+  {
+    "id": 75,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  },
+  {
+    "id": 76,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  },
+  {
+    "id": 78,
+    "iconId": "indecent",
+    "category": "indecent",
+    "type": "Непреличное",
+    "name": "#@%&^!"
+  }
+]}
