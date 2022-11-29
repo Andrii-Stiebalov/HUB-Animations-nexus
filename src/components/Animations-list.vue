@@ -81,7 +81,7 @@ $width: calc(100vw / 16);
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    flex-basis: 76px;
+    flex-basis: $width;
     max-height: calc(100vh / 2.2);
     
     overflow: scroll;

@@ -112,11 +112,18 @@ export default {
       this.selectedAnimations[index] = null;
     }
   },
+
   mounted() {
     this.filterAnimations()
   },
-  updated() {
-    this.filterAnimations()
+
+  watch: {
+    currentCategoryId(){
+      this.filterAnimations()
+    },
+    qwery(){
+      this.filterAnimations()
+    } 
   },
 
   components: {

@@ -24,7 +24,7 @@ export default {
   props: {
     animation: Object,
     isSelected: Boolean,
-    index: Number,
+    index: String,
     startDrag: Function
   },
 
@@ -40,7 +40,7 @@ export default {
 $width: calc(100vw / 16);
 
 .Animation {
-  width: fit-content;
+  max-width: 76px;
   cursor: pointer;
   margin-right: 10px;
 

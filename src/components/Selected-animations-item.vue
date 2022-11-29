@@ -46,7 +46,7 @@
     props: {
       animation: Object,
       isSelected: Boolean,
-      index: Number,
+      index: String,
       onDrop: Function,
       removeAnimation: Function
     },
